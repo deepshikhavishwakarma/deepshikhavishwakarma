@@ -10,6 +10,7 @@ Hi, I am Deepshikha,Thank you for visiting My profile. I am a JAVA Developer cur
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://deepshikhavishwakarma.github.io/portfolio/)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepshikha-vishwakarma-68a0bb19b/)
+[![Resume](https://drive.google.com/file/d/1zdmMzc-iNM6youbu-_-hee3dZ5SW5FuJ/view?usp=sharing/)
 
 
 ## 🛠 Skills
