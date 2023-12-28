@@ -24,3 +24,5 @@ Javascript, HTML, CSS, Bootstrap, Java, SpringBoot, JDBC, Basics NodeJs, Express
 
 **Databases:** MongoDb, MySQL
 
+I am eager to work and freelance if you have a project on my domain please contact (Thank you)
+
