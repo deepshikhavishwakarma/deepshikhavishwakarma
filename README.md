@@ -11,7 +11,7 @@ Hi, I am Deepshikha,Thank you for visiting My profile. I am a JAVA Developer cur
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepshikha-vishwakarma-68a0bb19b/)
 
-[![Resume](https://docs.google.com/document/d/1knOwMAyD2JuVKkAIrinBFBx-6a7Q5Uo9pBmfOvwuP3g/edit?tab=t.0)
+[![Resume](https://docs.google.com/document/d/1knOwMAyD2JuVKkAIrinBFBx-6a7Q5Uo9pBmfOvwuP3g/edit?tab=t.0/)
 
 
 ## 🛠 Skills
